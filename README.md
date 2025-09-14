@@ -1,9 +1,8 @@
-# Sentiment-Analysis-on-Movie-Reviews
-# 🎬 Sentiment Analysis on Movie Reviews
+# Sentiment-Analysis-on-Movie-Reviewsews
 
 This project focuses on **analyzing and classifying movie review sentiments** into positive or negative categories using machine learning techniques.
 
-### ✅ What I Did:
+### What I Did:
 - Used the **NLTK movie_reviews dataset** containing real-world positive and negative movie reviews.
 - Built a **text classification pipeline** using:
     - `CountVectorizer` for transforming text data into numerical features.
@@ -13,7 +12,7 @@ This project focuses on **analyzing and classifying movie review sentiments** in
 
 ---
 
-### 📊 Key Results:
+###  Key Results:
 - Achieved **~80-85% accuracy** on unseen test data.
 - Generated a detailed classification report for performance analysis.
 - Successfully predicted the sentiment of sample custom reviews:
@@ -23,7 +22,7 @@ This project focuses on **analyzing and classifying movie review sentiments** in
 
 ---
 
-### 🚀 Tools & Technologies:
+### Tools & Technologies:
 - Python  
 - NLTK  
 - scikit-learn (CountVectorizer, MultinomialNB, Pipeline)  
